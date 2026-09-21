@@ -104,18 +104,18 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-09090c?style=for-the-badge&logo=python&logoColor=e6e8eb)
-![JavaScript](https://img.shields.io/badge/JavaScript-09090c?style=for-the-badge&logo=javascript&logoColor=e6e8eb)
-![TypeScript](https://img.shields.io/badge/TypeScript-09090c?style=for-the-badge&logo=typescript&logoColor=e6e8eb)
-![React](https://img.shields.io/badge/React-09090c?style=for-the-badge&logo=react&logoColor=e6e8eb)
-![Node.js](https://img.shields.io/badge/Node.js-09090c?style=for-the-badge&logo=node.js&logoColor=e6e8eb)
-![HTML5](https://img.shields.io/badge/HTML5-09090c?style=for-the-badge&logo=html5&logoColor=e6e8eb)
-![CSS3](https://img.shields.io/badge/CSS3-09090c?style=for-the-badge&logo=css3&logoColor=e6e8eb)
-![MongoDB](https://img.shields.io/badge/MongoDB-09090c?style=for-the-badge&logo=mongodb&logoColor=e6e8eb)
-![Docker](https://img.shields.io/badge/Docker-09090c?style=for-the-badge&logo=docker&logoColor=e6e8eb)
-![GitHub](https://img.shields.io/badge/GitHub-09090c?style=for-the-badge&logo=github&logoColor=e6e8eb)
-![Discord](https://img.shields.io/badge/Discord-09090c?style=for-the-badge&logo=discord&logoColor=e6e8eb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090c?style=for-the-badge&logo=postgresql&logoColor=e6e8eb)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 
 </div>
 
@@ -124,8 +124,8 @@ Python / discord.py project with a clean structure and basic Discord commands.
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> GITHUB
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=09090c&title_color=e6e8eb&icon_color=e6e8eb&text_color=a7adb5" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=09090c&title_color=e6e8eb&text_color=a7adb5&langs_count=6" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6" width="40%">
 </div>
 
 ---
@@ -133,7 +133,7 @@ Python / discord.py project with a clean structure and basic Discord commands.
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> CONTRIBUTIONS
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=09090c&ring=e6e8eb&fire=e6e8eb&currStreakLabel=e6e8eb" width="80%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="80%">
 </div>
 
 ---
