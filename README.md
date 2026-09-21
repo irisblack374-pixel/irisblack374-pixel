@@ -3,7 +3,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="58" alt="Cat icon">
 <h2>SOFTWARE ENGINEERING • SYSTEMS • AI • AUTOMATION</h2>
-<p>Building software systems, intelligent tools, automation and scalable applications.</p>
+<p>Building software systems, intelligent tools and automation with a dark cinematic aesthetic.</p>
 </div>
 
 ---
@@ -104,18 +104,18 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-080b12?style=for-the-badge&logo=python&logoColor=58b7ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-080b12?style=for-the-badge&logo=javascript&logoColor=58b7ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-080b12?style=for-the-badge&logo=typescript&logoColor=58b7ff)
-![React](https://img.shields.io/badge/React-080b12?style=for-the-badge&logo=react&logoColor=58b7ff)
-![Node.js](https://img.shields.io/badge/Node.js-080b12?style=for-the-badge&logo=node.js&logoColor=58b7ff)
-![HTML5](https://img.shields.io/badge/HTML5-080b12?style=for-the-badge&logo=html5&logoColor=58b7ff)
-![CSS3](https://img.shields.io/badge/CSS3-080b12?style=for-the-badge&logo=css3&logoColor=58b7ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-080b12?style=for-the-badge&logo=mongodb&logoColor=58b7ff)
-![Docker](https://img.shields.io/badge/Docker-080b12?style=for-the-badge&logo=docker&logoColor=58b7ff)
-![GitHub](https://img.shields.io/badge/GitHub-080b12?style=for-the-badge&logo=github&logoColor=58b7ff)
-![Discord](https://img.shields.io/badge/Discord-080b12?style=for-the-badge&logo=discord&logoColor=58b7ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080b12?style=for-the-badge&logo=postgresql&logoColor=58b7ff)
+![Python](https://img.shields.io/badge/Python-09090c?style=for-the-badge&logo=python&logoColor=a8c7e8)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090c?style=for-the-badge&logo=javascript&logoColor=a8c7e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090c?style=for-the-badge&logo=typescript&logoColor=a8c7e8)
+![React](https://img.shields.io/badge/React-09090c?style=for-the-badge&logo=react&logoColor=a8c7e8)
+![Node.js](https://img.shields.io/badge/Node.js-09090c?style=for-the-badge&logo=node.js&logoColor=a8c7e8)
+![HTML5](https://img.shields.io/badge/HTML5-09090c?style=for-the-badge&logo=html5&logoColor=a8c7e8)
+![CSS3](https://img.shields.io/badge/CSS3-09090c?style=for-the-badge&logo=css3&logoColor=a8c7e8)
+![MongoDB](https://img.shields.io/badge/MongoDB-09090c?style=for-the-badge&logo=mongodb&logoColor=a8c7e8)
+![Docker](https://img.shields.io/badge/Docker-09090c?style=for-the-badge&logo=docker&logoColor=a8c7e8)
+![GitHub](https://img.shields.io/badge/GitHub-09090c?style=for-the-badge&logo=github&logoColor=a8c7e8)
+![Discord](https://img.shields.io/badge/Discord-09090c?style=for-the-badge&logo=discord&logoColor=a8c7e8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090c?style=for-the-badge&logo=postgresql&logoColor=a8c7e8)
 
 </div>
 
@@ -124,8 +124,8 @@ Python / discord.py project with a clean structure and basic Discord commands.
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> GITHUB
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=080b12&title_color=58b7ff&icon_color=58b7ff&text_color=9aa7bd" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=080b12&title_color=58b7ff&text_color=9aa7bd&langs_count=6" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=09090c&title_color=a8c7e8&icon_color=a8c7e8&text_color=aeb6c2" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=09090c&title_color=a8c7e8&text_color=aeb6c2&langs_count=6" width="40%">
 </div>
 
 ---
@@ -133,7 +133,7 @@ Python / discord.py project with a clean structure and basic Discord commands.
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> CONTRIBUTIONS
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=080b12&ring=58b7ff&fire=58b7ff&currStreakLabel=58b7ff" width="80%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=09090c&ring=a8c7e8&fire=a8c7e8&currStreakLabel=a8c7e8" width="80%">
 </div>
 
 ---
