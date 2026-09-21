@@ -20,7 +20,7 @@ IDEA → DESIGN → BUILD → TEST → IMPROVE → RELEASE
 
 ---
 
-## 🚀 CURRENTLY BUILDING
+## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="28" align="absmiddle"> CURRENTLY BUILDING
 
 > Turning ideas into practical projects across Discord, AI and the Web.
 
@@ -83,7 +83,7 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 ---
 
-## 🛠️ TECH STACK
+## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/python.svg" width="28" align="absmiddle"> TECH STACK
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 ---
 
-## 📈 CONTRIBUTIONS
+## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> CONTRIBUTIONS
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=080b12&ring=58b7ff&fire=58b7ff&currStreakLabel=58b7ff" width="80%">
