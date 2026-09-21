@@ -85,16 +85,18 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 ## TOOLBOX
 
-| AREA | TECHNOLOGIES |
+| AREA | TECHNOLOGIES & ENGINEERING |
 |:---:|:---|
-| LANGUAGES | Python · JavaScript · TypeScript · HTML · CSS |
-| BACKEND | Node.js · REST APIs · Backend Systems |
-| AI | AI APIs · AI Integration · Intelligent Tools |
-| DISCORD | discord.py · Bots · Automation · Server Systems |
-| WEB | React · Node.js · Responsive Interfaces |
-| DATABASES | MongoDB · PostgreSQL · JSON |
-| DEVOPS | Docker · Git · GitHub · Deployment |
-| WORKFLOW | Testing · Debugging · System Integration |
+| **LANGUAGES** | Python · JavaScript · TypeScript · HTML5 · CSS3 |
+| **SOFTWARE ENGINEERING** | Software Architecture · Modular Systems · OOP · Design Patterns |
+| **BACKEND** | Node.js · REST APIs · API Integration · Authentication · Async Systems |
+| **AI ENGINEERING** | AI APIs · LLM Integration · Computer Vision · AI Automation |
+| **DISCORD ENGINEERING** | discord.py · Advanced Bots · Moderation Systems · Tickets · Permissions · Automation |
+| **WEB ENGINEERING** | React · TypeScript · Responsive UI · Full-Stack Applications |
+| **DATABASES** | MongoDB · PostgreSQL · JSON · Data Modeling |
+| **DEVOPS** | Docker · Git · GitHub · Deployment · Environment Configuration |
+| **SECURITY** | Permissions · Input Validation · Secrets Management · Protection Systems |
+| **TOOLS & WORKFLOW** | Debugging · Testing · API Testing · System Integration · Version Control |
 
 ---
 
