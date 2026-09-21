@@ -10,9 +10,11 @@
 
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="28" align="absmiddle"> ABOUT
 
-**LARRY.DEV** — software developer focused on systems engineering, automation and intelligent applications.
+**LARRY.DEV** — software developer building practical systems, automation and intelligent applications.
 
-**Focus:** Software Engineering • Systems Architecture • AI • Automation • Backend • Web • Discord
+**Focus:** Software Engineering • Systems Architecture • AI Integration • Backend • Automation • Web • Discord
+
+**Specialization:** Bots & Infrastructure • APIs & Integrations • Developer Tools • System Automation
 
 ```
 IDEA → DESIGN → BUILD → TEST → IMPROVE → RELEASE
@@ -24,25 +26,25 @@ IDEA → DESIGN → BUILD → TEST → IMPROVE → RELEASE
 
 > Turning ideas into practical projects across Discord, AI and the Web.
 
-**Now:** Software Systems · AI Tools · Automation · Backend · Web Applications
+**Now:** Software Systems · AI Tools · Automation · Backend · Web Applications · Developer Utilities
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/discord.svg" width="28" align="absmiddle"> DISCORD
 
-Bots, server systems, moderation, automation and utility features.
+Advanced bots, server infrastructure, moderation systems, automation and custom utilities.
 
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/ai.svg" width="28" align="absmiddle"> AI
 
-AI-powered tools, experiments and practical ideas.
+AI-powered tools, API integrations, intelligent workflows and practical experiments.
 
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/web.svg" width="28" align="absmiddle"> WEB
 
-Websites, interfaces and application experiments.
+Modern interfaces, web applications, dashboards and full-stack experiments.
 
 ## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/python.svg" width="28" align="absmiddle"> PYTHON
 
-Bots, backend projects and utilities.
+Backend services, automation, APIs, bots and developer utilities.
 
 ---
 
@@ -65,6 +67,19 @@ Python / discord.py project with a clean structure and basic Discord commands.
 **Core:** Python • discord.py • dotenv
 
 → [OPEN Site-](https://github.com/irisblack374-pixel/Site-)
+
+---
+
+## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="28" align="absmiddle"> ENGINEERING AREAS
+
+| AREA | FOCUS |
+|:---:|:---|
+| SYSTEMS | Architecture · Modular Design · Integration |
+| AUTOMATION | Workflows · Bots · Scheduled Tasks · Utilities |
+| BACKEND | APIs · Services · Data Handling · Authentication |
+| AI | AI APIs · Vision · Intelligent Automation |
+| DISCORD | Bots · Moderation · Tickets · Server Infrastructure |
+| WEB | Frontend · Full-Stack · Dashboards · Interfaces |
 
 ---
 
@@ -97,6 +112,8 @@ Python / discord.py project with a clean structure and basic Discord commands.
 ![MongoDB](https://img.shields.io/badge/MongoDB-080b12?style=for-the-badge&logo=mongodb&logoColor=58b7ff)
 ![Docker](https://img.shields.io/badge/Docker-080b12?style=for-the-badge&logo=docker&logoColor=58b7ff)
 ![GitHub](https://img.shields.io/badge/GitHub-080b12?style=for-the-badge&logo=github&logoColor=58b7ff)
+![Discord](https://img.shields.io/badge/Discord-080b12?style=for-the-badge&logo=discord&logoColor=58b7ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080b12?style=for-the-badge&logo=postgresql&logoColor=58b7ff)
 
 </div>
 
@@ -116,6 +133,16 @@ Python / discord.py project with a clean structure and basic Discord commands.
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=080b12&ring=58b7ff&fire=58b7ff&currStreakLabel=58b7ff" width="80%">
 </div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/ai.svg" width="28" align="absmiddle"> ENGINEERING MINDSET
+
+```
+ARCHITECT → BUILD → INTEGRATE → TEST → OPTIMIZE → SHIP
+```
+
+> Building clean systems, useful automation and tools that solve real problems.
 
 ---
 
