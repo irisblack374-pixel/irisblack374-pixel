@@ -1,37 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=190&section=header&text=IRISBLACK374-PIXEL&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:1e3a8a,75:6d28d9,100:020617&text=IRISBLACK374-PIXEL&fontColor=ffffff&fontSize=46&animation=twinkling&stroke=ffffff&strokeWidth=1" width="100%"/>
 
-### 💻 Developer • 🤖 AI Builder • 🎮 Discord & Game Developer
+<h2>⚡ CODE • CREATE • INNOVATE ⚡</h2>
+
+<p><strong>Developer | AI Builder | Discord Bot Developer | Game Creator</strong></p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/irisblack374-pixel?style=for-the-badge&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/irisblack374-pixel?style=for-the-badge&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=flat-square&color=6d28d9&label=VISITORS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/irisblack374-pixel?style=flat-square&label=FOLLOWERS&color=2563eb"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/irisblack374-pixel?style=flat-square&label=STARS&color=7c3aed"/>
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧬 WHO AM I?
 
-I'm **irisblack374-pixel** — a developer who enjoys turning ideas into real projects.
+> **I turn ideas into projects.**
 
-I build and experiment with **Discord bots, AI-powered tools, websites, automation, and game projects**.
+I'm **irisblack374-pixel**, a developer interested in building things with code, experimenting with AI, creating Discord bots, developing web projects, and exploring games.
 
-- 🤖 Discord bot development
-- 🧠 AI experiments & applications
-- 🌐 Modern web development
-- 🎮 Game projects & prototypes
-- ⚙️ Automation & useful tools
-- 📚 Constantly learning and improving
-
-> **Build → Test → Improve → Repeat.**
+**My mindset:**
+```
+Think → Build → Test → Improve → Repeat
+```
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ ARSENAL
 
 <div align="center">
 
@@ -41,86 +41,85 @@ I build and experiment with **Discord bots, AI-powered tools, websites, automati
 
 ---
 
-## 🚀 Featured Projects
+## 🛰️ PROJECTS
+
+<div align="center">
+
+| PROJECT | TYPE | STATUS |
+|:---:|:---:|:---:|
+| 🤖 **Hhf** | Discord Bot | 🟢 Active |
+| 🌐 **Site-** | Web Project | 🟡 Building |
+
+</div>
 
 ### 🤖 Hhf
-**Discord bot built with Python & discord.py**
+Python / discord.py project focused on Discord bots, commands, automation and server functionality.
 
-A project focused on Discord automation, commands, server tools and bot functionality.
-
-🔗 [View Hhf](https://github.com/irisblack374-pixel/Hhf)
+**→** [Explore Hhf](https://github.com/irisblack374-pixel/Hhf)
 
 ### 🌐 Site-
-**Web project**
+Web development project in my portfolio.
 
-A web development project currently part of my GitHub portfolio.
-
-🔗 [View Site-](https://github.com/irisblack374-pixel/Site-)
+**→** [Explore Site-](https://github.com/irisblack374-pixel/Site-)
 
 ---
 
-## 📊 GitHub Analytics
+## 📡 GITHUB SYSTEM
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=94a3b8&langs_count=8" height="170"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=transparent&hide_border=true&ring=7c3aed&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" width="75%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution activity"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🧠 CURRENTLY BUILDING
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="90%"/>
-
-</div>
-
----
-
-## 🎯 What I'm Working Toward
-
-| Focus | Goal |
-|---|---|
-| 🧠 AI | Build useful AI-powered applications |
-| 🤖 Discord | Create powerful and reliable bots |
-| 🌐 Web | Build modern interactive experiences |
-| 🎮 Games | Turn ideas into playable projects |
-| 🛠️ Skills | Keep learning and improving |
+```text
+[ AI              ] ███████████████░░░  Exploring
+[ Discord         ] ██████████████████░  Building
+[ Web Development ] ███████████████░░░  Creating
+[ Games           ] ████████████░░░░░░░  Experimenting
+[ Automation      ] ██████████████░░░░░  Improving
+```
 
 ---
 
-## 🌐 Find Me on GitHub
+## 🎯 NEXT LEVEL
 
-<div align="center">
-
-<a href="https://github.com/irisblack374-pixel">
-<img src="https://img.shields.io/badge/GitHub-irisblack374--pixel-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+- 🧠 Build smarter AI applications
+- 🤖 Create more advanced Discord systems
+- 🌐 Build polished web experiences
+- 🎮 Turn game ideas into playable projects
+- 🚀 Keep improving through real projects
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+## 💜 THANKS FOR VISITING
 
-**Explore my repositories and follow the journey.**
+**If you like what I'm building, explore my repositories.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=110&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
