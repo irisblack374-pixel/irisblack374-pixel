@@ -20,15 +20,15 @@
 
 ---
 
-## ◼ ABOUT
+## 🕶️ ABOUT
 
 I'm **LARRY.DEV**, building practical software projects around:
 
-- **Discord** — bots, moderation, permissions, tickets and automation
-- **AI** — API integrations, vision experiments and intelligent workflows
-- **Web** — interfaces, dashboards and full-stack experiments
-- **Python** — automation, backend services and developer utilities
-- **Systems** — integrations, configuration and reliable project structure
+- **💬 Discord** — bots, moderation, permissions, tickets and automation
+- **🤖 AI** — API integrations, vision experiments and intelligent workflows
+- **🌐 Web** — interfaces, dashboards and full-stack experiments
+- **🐍 Python** — automation, backend services and developer utilities
+- **🛡️ Systems** — integrations, configuration and reliable project structure
 
 > Turning an idea into a working project — then improving it.
 
@@ -38,7 +38,7 @@ IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 
 ---
 
-## ◼ WHAT I BUILD
+## ⚙️ WHAT I BUILD
 
 | FIELD | PROJECT WORK |
 |:---|:---|
@@ -51,9 +51,9 @@ IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 
 ---
 
-## ◼ FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
-### Hhf
+### 🛡️ Hhf
 **Discord Management & Protection**
 
 A Python / discord.py project focused on Discord management, moderation, protection, tickets, logs, permissions and utilities.
@@ -65,7 +65,7 @@ https://github.com/irisblack374-pixel/Hhf
 
 ---
 
-### Site-
+### 🌐 Site-
 **Discord Bot Project**
 
 A Python / discord.py project built around Discord commands, configuration and bot utilities.
@@ -74,7 +74,7 @@ A Python / discord.py project built around Discord commands, configuration and b
 
 ---
 
-## ◼ TECH STACK
+## 🧩 TECH STACK
 
 <div align="center">
 
@@ -95,7 +95,7 @@ A Python / discord.py project built around Discord commands, configuration and b
 
 ---
 
-## ◼ ENGINEERING AREAS
+## 🧠 ENGINEERING AREAS
 
 ```text
 SOFTWARE
@@ -126,7 +126,7 @@ WEB
 
 ---
 
-## ◼ GITHUB
+## 🐙 GITHUB
 
 <div align="center">
 
@@ -142,7 +142,7 @@ WEB
 
 ---
 
-## ◼ DEVELOPMENT PHILOSOPHY
+## ♾️ DEVELOPMENT PHILOSOPHY
 
 ```text
 PLAN
