@@ -1,157 +1,175 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/header.svg" width="100%" alt="LARRY.DEV">
-<br><br>
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="58" alt="Cat icon">
-<h2>SOFTWARE ENGINEERING • SYSTEMS • AI • AUTOMATION</h2>
-<p>Building software systems, intelligent tools and automation with a dark cinematic aesthetic.</p>
+
+<br>
+
+# LARRY.DEV
+
+**العم لاري · Software • AI • Automation**
+
+*Code. Build. Improve. Repeat.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/irisblack374-pixel)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/)
+
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="28" align="absmiddle"> ABOUT
+## ◼ ABOUT
 
-**LARRY.DEV** — software developer building practical systems, automation and intelligent applications.
+I'm **LARRY.DEV**, building practical software projects around:
 
-**Focus:** Software Engineering • Systems Architecture • AI Integration • Backend • Automation • Web • Discord
+- **Discord** — bots, moderation, permissions, tickets and automation
+- **AI** — API integrations, vision experiments and intelligent workflows
+- **Web** — interfaces, dashboards and full-stack experiments
+- **Python** — automation, backend services and developer utilities
+- **Systems** — integrations, configuration and reliable project structure
 
-**Specialization:** Bots & Infrastructure • APIs & Integrations • Developer Tools • System Automation
+> Turning an idea into a working project — then improving it.
 
+```text
+IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 ```
-IDEA → DESIGN → BUILD → TEST → IMPROVE → RELEASE
-```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="28" align="absmiddle"> CURRENTLY BUILDING
+## ◼ WHAT I BUILD
 
-> Turning ideas into practical projects across Discord, AI and the Web.
-
-**Now:** Software Systems · AI Tools · Automation · Backend · Web Applications · Developer Utilities
-
----
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/discord.svg" width="28" align="absmiddle"> DISCORD
-
-Advanced bots, server infrastructure, moderation systems, automation and custom utilities.
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/ai.svg" width="28" align="absmiddle"> AI
-
-AI-powered tools, API integrations, intelligent workflows and practical experiments.
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/web.svg" width="28" align="absmiddle"> WEB
-
-Modern interfaces, web applications, dashboards and full-stack experiments.
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/python.svg" width="28" align="absmiddle"> PYTHON
-
-Backend services, automation, APIs, bots and developer utilities.
+| FIELD | PROJECT WORK |
+|:---|:---|
+| DISCORD | Bots · Moderation · Tickets · Permissions · Automation |
+| AI | AI APIs · Vision · LLM integrations · AI workflows |
+| WEB | Frontend · Dashboards · Full-stack applications |
+| BACKEND | APIs · Services · Async systems · Data handling |
+| AUTOMATION | Workflows · Utilities · Scheduled tasks · Integrations |
+| SYSTEMS | Architecture · Configuration · Security · Deployment |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="28" align="absmiddle"> FEATURED PROJECTS
+## ◼ FEATURED PROJECTS
 
 ### Hhf
-**Discord Management • Moderation • Protection**
+**Discord Management & Protection**
 
-Python / discord.py project with moderation, protection, tickets, logs, configuration and utilities.
+A Python / discord.py project focused on Discord management, moderation, protection, tickets, logs, permissions and utilities.
 
-**Core:** Python • discord.py • JSON
+**Stack:** Python · discord.py · JSON
 
-→ OPEN Hhf
+**Repository:**  
+https://github.com/irisblack374-pixel/Hhf
+
+---
 
 ### Site-
-**Simple Discord Bot**
+**Discord Bot Project**
 
-Python / discord.py project with a clean structure and basic Discord commands.
+A Python / discord.py project built around Discord commands, configuration and bot utilities.
 
-**Core:** Python • discord.py • dotenv
-
-→ OPEN Site-
+**Stack:** Python · discord.py · dotenv
 
 ---
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="28" align="absmiddle"> ENGINEERING AREAS
-
-| AREA | FOCUS |
-|:---:|:---|
-| SYSTEMS | Architecture · Modular Design · Integration |
-| AUTOMATION | Workflows · Bots · Scheduled Tasks · Utilities |
-| BACKEND | APIs · Services · Data Handling · Authentication |
-| AI | AI APIs · Vision · Intelligent Automation |
-| DISCORD | Bots · Moderation · Tickets · Server Infrastructure |
-| WEB | Frontend · Full-Stack · Dashboards · Interfaces |
-
----
-
-## TOOLBOX
-
-| AREA | TECHNOLOGIES & ENGINEERING |
-|:---:|:---|
-| **LANGUAGES** | Python · JavaScript · TypeScript · HTML5 · CSS3 |
-| **SOFTWARE ENGINEERING** | Software Architecture · Modular Systems · OOP · Design Patterns |
-| **BACKEND** | Node.js · REST APIs · API Integration · Authentication · Async Systems |
-| **AI ENGINEERING** | AI APIs · LLM Integration · Computer Vision · AI Automation |
-| **DISCORD ENGINEERING** | discord.py · Advanced Bots · Moderation Systems · Tickets · Permissions · Automation |
-| **WEB ENGINEERING** | React · TypeScript · Responsive UI · Full-Stack Applications |
-| **DATABASES** | MongoDB · PostgreSQL · JSON · Data Modeling |
-| **DEVOPS** | Docker · Git · GitHub · Deployment · Environment Configuration |
-| **SECURITY** | Permissions · Input Validation · Secrets Management · Protection Systems |
-| **TOOLS & WORKFLOW** | Debugging · Testing · API Testing · System Integration · Version Control |
-
----
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/python.svg" width="28" align="absmiddle"> TECH STACK
+## ◼ TECH STACK
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0b0b0c?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0c?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0c?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0b0b0c?style=for-the-badge&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0b0b0c?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-0b0b0c?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-0b0b0c?style=for-the-badge&logo=css3&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0b0c?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0c?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0b0b0c?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0b0b0c?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-0b0b0c?style=for-the-badge&logo=github&logoColor=ffffff)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> GITHUB
+## ◼ ENGINEERING AREAS
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6" width="40%">
-</div>
+```text
+SOFTWARE
+├── Backend
+├── APIs & Integrations
+├── Automation
+└── Developer Utilities
 
----
+AI
+├── AI APIs
+├── LLM Integration
+├── Computer Vision
+└── Intelligent Workflows
 
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/stats.svg" width="28" align="absmiddle"> CONTRIBUTIONS
+DISCORD
+├── Bots
+├── Moderation
+├── Permissions
+├── Tickets
+└── Server Automation
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="80%">
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/ai.svg" width="28" align="absmiddle"> ENGINEERING MINDSET
-
-```
-ARCHITECT → BUILD → INTEGRATE → TEST → OPTIMIZE → SHIP
+WEB
+├── React
+├── TypeScript
+├── Responsive UI
+└── Full-Stack Projects
 ```
 
-> Building clean systems, useful automation and tools that solve real problems.
-
 ---
 
+## ◼ GITHUB
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="42">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=ffffff&text_color=d9d9dc&ring_color=ffffff" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=d9d9dc&langs_count=6" width="40%">
+
 <br><br>
-<b>BUILD • TEST • EVOLVE</b>
-<br>
-LARRY.DEV · 2026
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=d9d9dc&dates=77787c" width="80%">
+
+</div>
+
+---
+
+## ◼ DEVELOPMENT PHILOSOPHY
+
+```text
+PLAN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+DEBUG
+  ↓
+OPTIMIZE
+  ↓
+SHIP
+  ↓
+REPEAT
+```
+
+> **Simple idea. Clean code. Useful result.**
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/cat.svg" width="52" alt="Larry">
+
+### &lt;/&gt; BUILD • TEST • EVOLVE
+
+**LARRY.DEV · 2026**
+
 </div>
