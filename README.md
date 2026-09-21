@@ -1,173 +1,275 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111827,100:312e81&text=IRISBLACK374&fontColor=ffffff&fontSize=52&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,25:0f172a,55:1e1b4b,80:4c1d95,100:000000&text=IRISBLACK374&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=8b5cf6&strokeWidth=2" width="100%"/>
 
 # IRISBLACK374-PIXEL
 
-**Developer • AI • Discord • Web • Games**
+## مطوّر | صانع مشاريع | مهتم بالذكاء الاصطناعي
 
-<p>
-  <a href="https://github.com/irisblack374-pixel?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/irisblack374-pixel">
-    <img src="https://img.shields.io/badge/PROFILE-GITHUB-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**أحوّل الأفكار إلى مشاريع حقيقية، وأتعلم من كل مشروع أبنيه.**
 
-<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=flat-square&color=312e81&label=PROFILE+VIEWS"/>
+<br>
+
+<img src="https://img.shields.io/badge/المشاريع-قيد_التطوير-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/المجال-برمجة_وتقنية-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/التركيز-ذكاء_اصطناعي-111827?style=for-the-badge"/>
 
 </div>
 
 ---
+
+# من أنا؟
+
+أنا **irisblack374-pixel**، أعمل على بناء وتجربة مشاريع برمجية مختلفة، وأحب تحويل الأفكار التي تبدو بسيطة إلى مشاريع قابلة للتجربة والتطوير.
+
+اهتماماتي الحالية تشمل:
+
+> **الذكاء الاصطناعي — بوتات Discord — تطوير الويب — الألعاب — الأتمتة**
+
+لا أركز على لغة واحدة فقط؛ الأهم بالنسبة لي هو **فكرة المشروع والنتيجة التي يمكن الوصول إليها**.
+
+---
+
+# كيف أبني مشاريعي؟
 
 <div align="center">
 
-## THE WORKFLOW
+### الفكرة
 
-**IDEA** → **BUILD** → **TEST** → **IMPROVE** → **SHIP**
+↓
+
+### التخطيط
+
+↓
+
+### البرمجة
+
+↓
+
+### التجربة
+
+↓
+
+### إصلاح المشاكل
+
+↓
+
+### التطوير
+
+↓
+
+### المشروع النهائي
 
 </div>
 
 ---
 
-## PROFILE
-
-I'm **irisblack374-pixel**.
-
-I build and experiment with software projects across:
-
-- Artificial Intelligence
-- Discord Bots & Automation
-- Web Development
-- Game Development
-- Full-Stack Experiments
-
-The goal is not just to write code — it's to turn ideas into projects that can actually be tested, improved and used.
-
----
-
-## STACK
+# مهاراتي وتقنياتي
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,html,css,tailwind,nodejs,mongodb,git,github&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,html,css,tailwind,nodejs,mongodb,git,github&perline=6"/>
 
 </div>
 
----
+### أستخدم وأجرب:
 
-## SELECTED PROJECTS
-
-<div align="center">
-
-### Hhf
-
-**Discord Bot · Python · discord.py**
-
-A Discord project focused on commands, automation and server functionality.
-
-<a href="https://github.com/irisblack374-pixel/Hhf">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br><br>
-
-### Site-
-
-**Web Project · Portfolio**
-
-A web-focused project in my development portfolio.
-
-<a href="https://github.com/irisblack374-pixel/Site-">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## NOW
-
-| AREA | FOCUS |
+| التقنية | الاستخدام |
 |:--|:--|
-| AI | Exploring AI-powered applications |
-| Discord | Building bot systems and automation |
-| Web | Creating modern interfaces |
-| Games | Experimenting with playable ideas |
-| Automation | Making repetitive tasks easier |
+| Python | البوتات والأتمتة والمشاريع البرمجية |
+| JavaScript | تطوير الويب والمشاريع التفاعلية |
+| TypeScript | بناء مشاريع ويب أكثر تنظيمًا |
+| React | واجهات وتطبيقات الويب |
+| Node.js | تطبيقات وخدمات JavaScript |
+| MongoDB | قواعد البيانات |
+| Git / GitHub | إدارة المشاريع والإصدارات |
 
 ---
 
-## GITHUB ACTIVITY
+# مشاريعي
+
+## Hhf
+
+### بوت Discord باستخدام Python
+
+مشروع يركز على بناء بوت Discord يحتوي على أوامر وأنظمة مختلفة، مع إمكانية تطويره وإضافة وظائف جديدة مع الوقت.
+
+**التقنيات:**
+
+Python · discord.py · Discord
+
+<div align="center">
+<a href="https://github.com/irisblack374-pixel/Hhf"><img src="https://img.shields.io/badge/افتح_مشروع_Hhf-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+---
+
+## Site-
+
+### مشروع ويب
+
+مشروع ويب ضمن تجاربي في تطوير المواقع والمشاريع البرمجية.
+
+أعمل على تطويره وتحسينه وإضافة أفكار جديدة إليه.
+
+**التقنيات:**
+
+Web · HTML · CSS · JavaScript
+
+<div align="center">
+<a href="https://github.com/irisblack374-pixel/Site-"><img src="https://img.shields.io/badge/افتح_مشروع_Site--181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+# ماذا أبني الآن؟
+
+| المجال | الحالة |
+|:--:|:--|
+| الذكاء الاصطناعي | ████████████████░░ قيد الاستكشاف |
+| بوتات Discord | ██████████████████ قيد التطوير |
+| تطوير الويب | ███████████████░░░ قيد البناء |
+| الألعاب | ████████████░░░░░ قيد التجربة |
+| الأتمتة | ███████████████░░░ قيد التطوير |
+
+---
+
+# رؤيتي
+
+أريد أن تكون صفحتي هنا مكانًا يعرض **تطور مشاريعي الحقيقي**.
+
+ليس الهدف أن يكون كل شيء مثاليًا من البداية.
+
+الهدف هو:
+
+**أبدأ → أجرب → أخطئ → أصلح → أطور → أتعلم**
+
+وكل مشروع جديد يمثل خطوة إضافية.
+
+---
+
+# أهدافي القادمة
+
+### 01 — الذكاء الاصطناعي
+
+بناء تطبيقات وأدوات تعتمد على الذكاء الاصطناعي بطريقة عملية.
+
+### 02 — Discord
+
+تطوير بوتات وأنظمة أكثر تقدمًا وتنظيمًا.
+
+### 03 — الويب
+
+إنشاء مواقع وواجهات حديثة وسريعة وسهلة الاستخدام.
+
+### 04 — الألعاب
+
+تحويل أفكار الألعاب إلى مشاريع قابلة للعب.
+
+### 05 — مشاريع أكبر
+
+الانتقال تدريجيًا من المشاريع الصغيرة إلى مشاريع كاملة ومتعددة الأنظمة.
+
+---
+
+# إحصائيات GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&theme=transparent&title_color=8b5cf6&icon_color=6366f1&text_color=94a3b8&rank_icon=github" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&theme=transparent&title_color=8b5cf6&text_color=94a3b8&langs_count=6" height="190"/>
+<br><br>
+<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=transparent&hide_border=true&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=94a3b8&dates=64748b" width="75%"/>
+</div>
+
+---
+
+# نشاطي البرمجي
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="نشاط GitHub"/>
+</div>
+
+---
+
+# مبادئي في البرمجة
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=8b5cf6&text_color=64748b&rank_icon=github" height="165"/>
+### لا أريد فقط كتابة الكود.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&text_color=64748b&langs_count=6" height="165"/>
+### أريد بناء شيء يعمل.
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=transparent&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=64748b&dates=94a3b8" width="70%"/>
+**فكرة**
+
+↓
+
+**تجربة**
+
+↓
+
+**مشكلة**
+
+↓
+
+**حل**
+
+↓
+
+**تطوير**
+
+↓
+
+**نتيجة**
 
 </div>
 
 ---
 
-## CONTRIBUTIONS
+# لماذا GitHub؟
+
+أستخدم GitHub كمساحة لحفظ مشاريعي، متابعة تطورها، وتجربة أفكار جديدة.
+
+كل Repository هنا يمثل جزءًا من رحلتي في البرمجة.
+
+يمكنك مشاهدة المشاريع، الكود، التحديثات، والتطور مع الوقت.
+
+---
+
+# استكشف مشاريعي
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Contribution graph"/>
-
+<a href="https://github.com/irisblack374-pixel?tab=repositories"><img src="https://img.shields.io/badge/عرض_جميع_المشاريع-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br><br>
+<a href="https://github.com/irisblack374-pixel"><img src="https://img.shields.io/badge/الصفحة_الرئيسية-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
 
-## DIRECTION
+# كلمة أخيرة
 
-```text
-01  Build stronger AI tools
-02  Create advanced Discord systems
-03  Develop polished web projects
-04  Turn game ideas into playable projects
-05  Grow through real-world building
-```
+<div align="center">
 
----
+## هذه مجرد البداية.
 
-## PRINCIPLES
+### كل مشروع جديد = فكرة جديدة + تجربة جديدة + خبرة جديدة.
 
-```text
-BUILD       → Make something real
-TEST        → Find what breaks
-FIX         → Solve the problem
-IMPROVE     → Make the next version better
-SHIP        → Finish the project
-LEARN       → Repeat
-```
+<br>
+
+**نبني اليوم ما يمكن أن يصبح مشروعًا كبيرًا غدًا.**
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=for-the-badge&color=7c3aed&label=زوار_الصفحة"/>
+</div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4c1d95,35:312e81,70:111827,100:000000&section=footer" width="100%"/>
 
-## KEEP BUILDING
+### © 2026 irisblack374-pixel
 
-**More ideas. More projects. Better versions.**
-
-<br>
-
-<a href="https://github.com/irisblack374-pixel?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>© 2026 irisblack374-pixel · All Rights Reserved</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312e81,50:111827,100:000000&section=footer" width="100%"/>
+**جميع الحقوق محفوظة**
 
 </div>
