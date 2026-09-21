@@ -4,13 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=DEVELOPER;AI+%7C+DISCORD+%7C+WEB+%7C+GAMES;BUILDING+PROJECTS;IDEAS+%E2%86%92+CODE+%E2%86%92+CREATE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=PYTHON+DEVELOPER;DISCORD+BOT+DEVELOPER;AI+%7C+WEB+%7C+GAMES;IDEAS+%E2%86%92+CODE+%E2%86%92+CREATE" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/DEVELOPER-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=7289da"/>
+<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
 
 </div>
 
@@ -20,83 +21,30 @@
 
 ## ✦ IRISBLACK374
 
-> **مطور أحب بناء المشاريع وتجربة أفكار جديدة باستخدام البرمجة والذكاء الاصطناعي.**
+> **Python developer focused on Discord bots, server tools, automation, AI experiments, and building ideas into working projects.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:111827,50:312e81,100:7c3aed&text=IDEA%20%E2%86%92%20CODE%20%E2%86%92%20CREATE&fontColor=ffffff&fontSize=26&fontAlignY=55" width="88%"/>
-
-</div>
-
-# ◈ عني
-
-أنا **IRISBLACK374**، مطور مهتم ببناء المشاريع وتجربة أفكار جديدة في **الذكاء الاصطناعي، Discord، الويب والألعاب**.
-
-أحب تحويل الأفكار إلى مشاريع وتجربتها وتطويرها خطوة بخطوة.
-
----
-
-# ◈ مجالاتي
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ◉ AI
-
-ذكاء اصطناعي  
-وأدوات ذكية
-
-</td>
-<td align="center" width="25%">
-
-### ◉ DISCORD
-
-بوتات  
-وأدوات للسيرفرات
-
-</td>
-<td align="center" width="25%">
-
-### ◉ WEB
-
-مواقع  
-وتجارب تفاعلية
-
-</td>
-<td align="center" width="25%">
-
-### ◉ GAMES
-
-ألعاب  
-وتجارب جديدة
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:111827,50:312e81,100:7c3aed&text=IDEA%20%E2%86%92%20CODE%20%E2%86%92%20BUILD&fontColor=ffffff&fontSize=26&fontAlignY=55" width="88%"/>
 
 </div>
 
----
+# ◈ About Me
 
-# ◈ التقنيات
+I'm **IRISBLACK374**, a developer who enjoys turning ideas into real projects.
 
-<div align="center">
+My main interests include:
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,mongodb,git,github&perline=8" />
+- 🐍 Python development
+- 🤖 Discord bots & server automation
+- 🛡️ Moderation and security tools
+- 🧠 AI-assisted development
+- 🌐 Web projects
+- 🎮 Game experiments
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-0f172a?style=for-the-flat-square&logo=openai&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/DISCORD-0f172a?style=for-the-flat-square&logo=discord&logoColor=7289da"/>
-<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-flat-square&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CANVA-0f172a?style=for-the-flat-square&logo=canva&logoColor=00c4cc"/>
-
-</div>
+I like building, testing, improving, and learning from every project.
 
 ---
 
-# ◈ PROJECTS
+# ◈ Featured Project
 
 <div align="center">
 
@@ -104,31 +52,65 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=irisblack374-pixel&repo=Hhf&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a78bfa&icon_color=8b5cf6" />
 </a>
 
+</div>
+
+### 🛡️ Hhf
+
+A Python Discord bot focused on server management, moderation, security, and useful server tools.
+
+**Includes:**
+- 🛡️ Anti-Nuke & protection
+- 🔐 Security and moderation
+- 🚨 Anti-Spam & Anti-Link
+- 🎫 Ticket system
+- 📝 Logging
+- ⚙️ Server configuration
+- 📊 Utility commands
+- 🤖 Automated server management
+
+---
+
+# ◈ Other Projects
+
 <a href="https://github.com/irisblack374-pixel/Site-">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=irisblack374-pixel&repo=Site-&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=a78bfa&icon_color=8b5cf6" />
 </a>
+
+---
+
+# ◈ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,mongodb,git,github&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Discord.py-0f172a?style=for-the-flat-square&logo=discord&logoColor=7289da"/>
+<img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-flat-square&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-flat-square&logo=canva&logoColor=00c4cc"/>
 
 </div>
 
 ---
 
-# ◈ WORKFLOW
+# ◈ How I Build
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:312e81&text=01%20%E2%80%94%20IDEA&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,100:312e81&text=01%20%E2%80%94%20IDEA&fontColor=ffffff&fontSize=22" width="65%"/>
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:4338ca&text=02%20%E2%80%94%20DESIGN&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,100:4338ca&text=02%20%E2%80%94%20DESIGN&fontColor=ffffff&fontSize=22" width="65%"/>
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:5b21b6&text=03%20%E2%80%94%20CODE&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,100:5b21b6&text=03%20%E2%80%94%20CODE&fontColor=ffffff&fontSize=22" width="65%"/>
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:7c3aed&text=04%20%E2%80%94%20TEST%20%26%20BUILD&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,100:7c3aed&text=04%20%E2%80%94%20TEST%20%26%20IMPROVE&fontColor=ffffff&fontSize=22" width="65%"/>
 
 </div>
 
