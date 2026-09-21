@@ -1,35 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:000000,25:0f172a,55:1e1b4b,80:4c1d95,100:000000&text=IRISBLACK374&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=8b5cf6&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:111827,65:312e81,100:7c3aed&text=IRISBLACK374&fontColor=ffffff&fontSize=64&animation=twinkling&stroke=8b5cf6&strokeWidth=2" width="100%"/>
 
-# 👾 IRISBLACK374-PIXEL
+<br>
 
-## ⚡ مطوّر • 🤖 ذكاء اصطناعي • 💻 برمجة • 🎮 ألعاب • 🌐 ويب
+# ╔═══ IRISBLACK374-PIXEL ═══╗
 
-> 🖤 **أحوّل الأفكار إلى مشاريع حقيقية، وأتطور مع كل مشروع أبنيه.**
+### ║  مطوّر  •  صانع مشاريع  •  ذكاء اصطناعي  ║
 
-<img src="https://img.shields.io/badge/🚀_مشاريع-قيد_التطوير-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻_المجال-برمجة_وتقنية-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠_التركيز-ذكاء_اصطناعي-111827?style=for-the-badge"/>
+**「 أحوّل الفكرة إلى مشروع 」**
+
+╚════════════════════════════╝
+
+<br>
+
+`████████████████████████████████████`
+
+**[ CODE ] ───── [ CREATE ] ───── [ BUILD ] ───── [ REPEAT ]**
+
+`████████████████████████████████████`
 
 </div>
 
 ---
 
-# 👋 من أنا؟
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 01 // مَن أنا؟
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-أنا **irisblack374-pixel**، مطوّر أحب تحويل الأفكار إلى مشاريع قابلة للتجربة والتطوير.
+**IRISBLACK374** هو اسم رحلتي في البرمجة وبناء المشاريع.
 
-### 🎯 أهتم بـ
-🤖 الذكاء الاصطناعي • 💬 Discord • 🌐 تطوير الويب • 🎮 الألعاب • ⚙️ الأتمتة
+أحب تحويل الأفكار إلى مشاريع حقيقية، وتجربة التقنيات المختلفة، وتطوير كل مشروع خطوة بعد خطوة.
 
-### 🔥 طريقتي
-
-**💡 فكرة → 🧠 تخطيط → 💻 برمجة → 🧪 تجربة → 🐛 إصلاح → 🚀 إطلاق**
+```
+╭────────────────────────────────────╮
+│  IDEA                               │
+│    ↓                                │
+│  PLAN                               │
+│    ↓                                │
+│  CODE                               │
+│    ↓                                │
+│  TEST                               │
+│    ↓                                │
+│  FIX                                │
+│    ↓                                │
+│  BUILD                              │
+╰────────────────────────────────────╯
+```
 
 ---
 
-# 🧰 ترسانتي التقنية
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 02 // TECH STACK
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 <div align="center">
 
@@ -37,86 +60,118 @@
 
 <br><br>
 
-🐍 **Python**　 🟨 **JavaScript**　 🔷 **TypeScript**  
-⚛️ **React**　 🌐 **HTML/CSS**　 🟢 **Node.js**  
-🍃 **MongoDB**　 🔧 **Git**　 🐙 **GitHub**
+`PYTHON`　`JAVASCRIPT`　`TYPESCRIPT`  
+`REACT`　`HTML`　`CSS`　`TAILWIND`  
+`NODE.JS`　`MONGODB`　`GIT`　`GITHUB`
 
 </div>
 
 ---
 
-# 🚀 مشاريعي
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 03 // PROJECTS
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-## 🤖 Hhf
+## ╔══ [ Hhf ] ══╗
 
-### 💬 بوت Discord باستخدام Python
+**Discord Bot / Python**
 
-بوت أعمل على تطويره وبناء أنظمة وأوامر مختلفة داخله.
+```
+┌─────────────────────────────────────┐
+│  TYPE       : DISCORD BOT           │
+│  LANGUAGE   : PYTHON                │
+│  LIBRARY    : DISCORD.PY            │
+│  STATUS     : ACTIVE DEVELOPMENT    │
+└─────────────────────────────────────┘
+```
 
-**🛠️ Python • discord.py • Discord**
+بوت Discord أعمل على تطويره وبناء أنظمة وأوامر مختلفة داخله.
 
 <div align="center">
-<a href="https://github.com/irisblack374-pixel/Hhf"><img src="https://img.shields.io/badge/🔥_افتح_مشروع_Hhf-5865F2?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/irisblack374-pixel/Hhf"><img src="https://img.shields.io/badge/OPEN_HHF-5865F2?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
 
-## 🌐 Site-
+## ╔══ [ Site- ] ══╗
 
-### 💻 مشروع ويب
+**Web Project**
 
-مشروع ضمن تجاربي في تطوير المواقع والواجهات والمشاريع التفاعلية.
+```
+┌─────────────────────────────────────┐
+│  TYPE       : WEB PROJECT           │
+│  STACK      : HTML / CSS / JS       │
+│  STATUS     : IN DEVELOPMENT        │
+└─────────────────────────────────────┘
+```
 
-**🛠️ HTML • CSS • JavaScript**
+مشروع ويب ضمن تجاربي في بناء المواقع والواجهات.
 
 <div align="center">
-<a href="https://github.com/irisblack374-pixel/Site-"><img src="https://img.shields.io/badge/🌐_افتح_مشروع_Site--7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/irisblack374-pixel/Site-"><img src="https://img.shields.io/badge/OPEN_SITE--7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
 ---
 
-# 🔥 ماذا أبني الآن؟
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 04 // CURRENTLY BUILDING
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-| 🚀 المجال | 📊 الحالة |
-|:--|:--|
-| 🤖 الذكاء الاصطناعي | ████████████████░░ |
-| 💬 Discord | ██████████████████ |
-| 🌐 تطوير الويب | ███████████████░░░ |
-| 🎮 الألعاب | ████████████░░░░░░ |
-| ⚙️ الأتمتة | ███████████████░░░ |
-
----
-
-# 🧠 رؤيتي
-
-> 💡 **أبدأ → أجرب → أخطئ → أصلح → أطور → أتعلم**
-
-لا أحتاج أن يكون المشروع مثاليًا من أول محاولة.
-
-**🚀 كل نسخة جديدة = خبرة جديدة.**
+```
+┌───────────────────────────────┬──────────────┐
+│ FIELD                         │ PROGRESS     │
+├───────────────────────────────┼──────────────┤
+│ AI                            │ ████████░░   │
+│ DISCORD                       │ ██████████   │
+│ WEB                           │ ████████░░   │
+│ GAME DEV                      │ ██████░░░░   │
+│ AUTOMATION                    │ ████████░░   │
+└───────────────────────────────┴──────────────┘
+```
 
 ---
 
-# 🎯 أهدافي القادمة
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 05 // PHILOSOPHY
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-### 🤖 01 — الذكاء الاصطناعي
-بناء أدوات وتطبيقات AI عملية.
+<div align="center">
 
-### 💬 02 — Discord
-إنشاء بوتات وأنظمة أكثر تقدمًا.
+```
+╔══════════════════════════════════════╗
+║                                      ║
+║       「 لا أنتظر الفكرة المثالية 」  ║
+║                                      ║
+║       أبدأ  →  أجرب  →  أخطئ         ║
+║              ↓                       ║
+║       أصلح  →  أطور  →  أتعلم        ║
+║              ↓                       ║
+║            BUILD                     ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
 
-### 🌐 03 — الويب
-تصميم مواقع حديثة وسريعة.
-
-### 🎮 04 — الألعاب
-تحويل الأفكار إلى ألعاب قابلة للعب.
-
-### 🚀 05 — مشاريع أكبر
-الانتقال تدريجيًا إلى أنظمة ومشاريع كاملة.
+</div>
 
 ---
 
-# 📊 إحصائيات GitHub
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 06 // ROADMAP
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+```
+01 ┃ AI              ███████████████░
+02 ┃ DISCORD         █████████████████
+03 ┃ WEB             ██████████████░░
+04 ┃ GAMES           ███████████░░░░░
+05 ┃ BIG PROJECTS    █████████░░░░░░░
+```
+
+---
+
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 07 // GITHUB STATS
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 <div align="center">
 
@@ -132,65 +187,71 @@
 
 ---
 
-# 🐍 نشاطي البرمجي
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 08 // ACTIVITY
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="نشاط GitHub"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub activity"/>
 
 </div>
 
 ---
 
-# 🏆 رحلة المشروع
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 09 // SYSTEM
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 <div align="center">
 
-💭 **فكرة**  
-⬇️  
-🧠 **تخطيط**  
-⬇️  
-💻 **كود**  
-⬇️  
-🐛 **مشكلة**  
-⬇️  
-🔧 **حل**  
-⬇️  
-✨ **تطوير**  
-⬇️  
-🚀 **مشروع**
+```
+╭────────────────────────────────────────╮
+│                                        │
+│   [ THINK ] → [ CODE ] → [ TEST ]      │
+│                    ↓                   │
+│                 [ FIX ]                │
+│                    ↓                   │
+│                [ DEPLOY ]              │
+│                    ↓                   │
+│                [ REPEAT ]              │
+│                                        │
+╰────────────────────────────────────────╯
+```
+
+**「 كل مشروع جديد = مستوى جديد 」**
 
 </div>
 
 ---
 
-# 🌟 استكشف عالمي
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃ 10 // EXPLORE
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 <div align="center">
 
-<a href="https://github.com/irisblack374-pixel?tab=repositories"><img src="https://img.shields.io/badge/📦_جميع_المشاريع-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/irisblack374-pixel?tab=repositories"><img src="https://img.shields.io/badge/%5B%20ALL_PROJECTS%20%5D-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<a href="https://github.com/irisblack374-pixel"><img src="https://img.shields.io/badge/🐙_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ هذه مجرد البداية...
-
-### 🧠 فكرة جديدة → 🛠️ مشروع جديد → 🚀 مستوى جديد
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=for-the-badge&color=7c3aed&label=👁️_زوار_الصفحة"/>
+<a href="https://github.com/irisblack374-pixel"><img src="https://img.shields.io/badge/%5B%20GITHUB%20%5D-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
-**©️ 2026 irisblack374-pixel**  
-**📜 جميع الحقوق محفوظة**
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7c3aed,45:312e81,75:111827,100:000000&section=footer" width="100%"/>
+### [ END OF PROFILE ]
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<br>
+
+**© 2026 IRISBLACK374-PIXEL**  
+**جميع الحقوق محفوظة**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=for-the-badge&color=7c3aed&label=PROFILE_VIEWS"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7c3aed,45:312e81,75:111827,100:000000&section=footer" width="100%"/>
