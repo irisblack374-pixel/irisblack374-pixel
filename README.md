@@ -1,188 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,35:0f172a,65:1e3a8a,85:6d28d9,100:020617&text=IRISBLACK374-PIXEL&fontColor=ffffff&fontSize=48&animation=twinkling&stroke=60a5fa&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111827,100:312e81&text=IRISBLACK374&fontColor=ffffff&fontSize=52&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-# <img src="https://cdn.simpleicons.org/github/ffffff" width="30" alt="GitHub"> IRISBLACK374-PIXEL
+# IRISBLACK374-PIXEL
 
-### BUILDING IDEAS INTO REAL PROJECTS
-
-**Developer · AI Builder · Discord Bot Developer · Web Creator · Game Experimenter**
+**Developer • AI • Discord • Web • Games**
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/irisblack374-pixel?style=for-the-badge&label=FOLLOWERS&color=2563eb"/>
-<img src="https://img.shields.io/github/stars/irisblack374-pixel?style=for-the-badge&label=STARS&color=7c3aed"/>
+  <a href="https://github.com/irisblack374-pixel?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/irisblack374-pixel">
+    <img src="https://img.shields.io/badge/PROFILE-GITHUB-312e81?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&style=flat-square&color=312e81&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="About"> ABOUT
-
-> **I turn ideas into projects.**
-
-I'm **irisblack374-pixel**, a builder focused on practical projects across **AI, Discord automation, web development and games**.
-
-I enjoy taking an idea from a simple concept to something that can actually run, be tested and improved.
-
-```text
-IDEA
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-SHIP
-```
-
----
-
-## <img src="https://cdn.simpleicons.org/stackblitz/1389FD" width="22" alt="Stack"> TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,tailwind,nodejs,mongodb,git,github&perline=6" />
+## THE WORKFLOW
+
+**IDEA** → **BUILD** → **TEST** → **IMPROVE** → **SHIP**
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Projects"> FEATURED PROJECTS
+## PROFILE
 
-### <img src="https://cdn.simpleicons.org/discord/5865F2" width="20" alt="Discord"> Hhf
+I'm **irisblack374-pixel**.
+
+I build and experiment with software projects across:
+
+- Artificial Intelligence
+- Discord Bots & Automation
+- Web Development
+- Game Development
+- Full-Stack Experiments
+
+The goal is not just to write code — it's to turn ideas into projects that can actually be tested, improved and used.
+
+---
+
+## STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,html,css,tailwind,nodejs,mongodb,git,github&perline=7"/>
+
+</div>
+
+---
+
+## SELECTED PROJECTS
+
+<div align="center">
+
+### Hhf
 
 **Discord Bot · Python · discord.py**
 
-A Discord project focused on commands, automation, server functionality and practical bot systems.
+A Discord project focused on commands, automation and server functionality.
 
-**Repository:** [irisblack374-pixel/Hhf](https://github.com/irisblack374-pixel/Hhf)
-
----
-
-### <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" alt="Web"> Site-
-
-**Web Project · Portfolio**
-
-A web-focused project built as part of my development portfolio.
-
-**Repository:** [irisblack374-pixel/Site-](https://github.com/irisblack374-pixel/Site-)
-
----
-
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Focus"> WHAT I'M BUILDING
-
-```text
-AI              ███████████████░░░░   Exploring
-Discord         ██████████████████░░   Building
-Web Development ████████████████░░░░   Creating
-Games           █████████████░░░░░░░   Experimenting
-Automation      ███████████████░░░░░   Improving
-```
-
-My current direction:
-
-- Build useful AI-powered tools
-- Create advanced Discord systems
-- Develop polished web experiences
-- Turn game concepts into playable projects
-- Learn by building real projects
-
----
-
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Stats"> GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=94a3b8&langs_count=8" height="180"/>
-
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Activity"> CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=transparent&hide_border=true&ring=7c3aed&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" width="78%"/>
+<a href="https://github.com/irisblack374-pixel/Hhf">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution activity"/>
+### Site-
+
+**Web Project · Portfolio**
+
+A web-focused project in my development portfolio.
+
+<a href="https://github.com/irisblack374-pixel/Site-">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Roadmap"> ROADMAP
+## NOW
+
+| AREA | FOCUS |
+|:--|:--|
+| AI | Exploring AI-powered applications |
+| Discord | Building bot systems and automation |
+| Web | Creating modern interfaces |
+| Games | Experimenting with playable ideas |
+| Automation | Making repetitive tasks easier |
+
+---
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&theme=transparent&title_color=6366f1&icon_color=8b5cf6&text_color=64748b&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&hide_border=true&theme=transparent&title_color=6366f1&text_color=64748b&langs_count=6" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=transparent&hide_border=true&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1&sideLabels=64748b&dates=94a3b8" width="70%"/>
+
+</div>
+
+---
+
+## CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## DIRECTION
 
 ```text
-[✓] Discord Bot Projects
-[✓] Web Projects
-[→] AI-Powered Applications
-[→] Advanced Automation
-[→] Game Development
-[→] Larger Full-Stack Projects
+01  Build stronger AI tools
+02  Create advanced Discord systems
+03  Develop polished web projects
+04  Turn game ideas into playable projects
+05  Grow through real-world building
 ```
 
-The goal is simple:
-
-**Build more. Learn more. Ship better.**
-
 ---
 
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Principles"> BUILD PRINCIPLES
+## PRINCIPLES
 
-| Principle | Meaning |
-|:--|:--|
-| **Build** | Learn by creating real projects |
-| **Test** | Break things, find problems, fix them |
-| **Improve** | Every version should be better |
-| **Ship** | Finished projects matter |
-| **Learn** | Keep exploring new technologies |
+```text
+BUILD       → Make something real
+TEST        → Find what breaks
+FIX         → Solve the problem
+IMPROVE     → Make the next version better
+SHIP        → Finish the project
+LEARN       → Repeat
+```
 
 ---
-
-## <img src="https://cdn.simpleicons.org/github/181717" width="22" alt="Explore"> EXPLORE
 
 <div align="center">
+
+## KEEP BUILDING
+
+**More ideas. More projects. Better versions.**
+
+<br>
 
 <a href="https://github.com/irisblack374-pixel?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/irisblack374-pixel">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
 
-</div>
+<sub>© 2026 irisblack374-pixel · All Rights Reserved</sub>
 
----
+<br><br>
 
-## <img src="https://cdn.simpleicons.org/copyright/181717" width="22" alt="Copyright"> RIGHTS
-
-<div align="center">
-
-**© 2026 irisblack374-pixel — All Rights Reserved**
-
-This profile and its original project content belong to **irisblack374-pixel**.
-
-</div>
-
----
-
-<div align="center">
-
-### THANKS FOR VISITING
-
-**Explore the repositories. Watch the projects evolve.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:7c3aed&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:312e81,50:111827,100:000000&section=footer" width="100%"/>
 
 </div>
