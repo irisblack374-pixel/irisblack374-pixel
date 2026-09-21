@@ -57,7 +57,7 @@ Python / discord.py project with moderation, protection, tickets, logs, configur
 
 **Core:** Python • discord.py • JSON
 
-→ [OPEN Hhf](https://github.com/irisblack374-pixel/Hhf)
+→ OPEN Hhf
 
 ### Site-
 **Simple Discord Bot**
@@ -66,7 +66,7 @@ Python / discord.py project with a clean structure and basic Discord commands.
 
 **Core:** Python • discord.py • dotenv
 
-→ [OPEN Site-](https://github.com/irisblack374-pixel/Site-)
+→ OPEN Site-
 
 ---
 
