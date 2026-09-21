@@ -2,27 +2,53 @@
 
 # LARRY.DEV
 
-**Developer • Builder • AI Enthusiast**
+### Developer • Discord Bots • AI • Web
 
-*Turning ideas into clean, useful projects.*
+Building practical projects, automation tools, and experiments.
 
-[![GitHub](https://img.shields.io/badge/GitHub-0b0d12?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/irisblack374-pixel)
-[![Discord](https://img.shields.io/badge/Discord-0b0d12?style=flat-square&logo=discord&logoColor=ffffff)](#)
-[![TikTok](https://img.shields.io/badge/TikTok-0b0d12?style=flat-square&logo=tiktok&logoColor=ffffff)](#)
+<p>
+  <a href="https://github.com/irisblack374-pixel">
+    <img src="https://img.shields.io/badge/GitHub-irisblack374--pixel-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## / about
+## 👋 About
 
-I'm **LARRY.DEV**, a developer focused on building practical projects around **Python, Discord automation, AI, web development, and experiments**.
+I'm **LARRY.DEV**, a developer interested in building useful projects with:
 
-I enjoy taking an idea from concept → code → testing → something people can actually use.
+- 🐍 Python
+- 🤖 Discord bots & automation
+- 🌐 Web development
+- 🧠 AI experiments
+- 🧪 Prototypes and new ideas
+
+I like turning an idea into a working project, then improving it step by step.
 
 ---
 
-## / skills
+## 🚀 Featured Projects
+
+### 🤖 Hhf
+**Discord management & protection bot**
+
+A Python/discord.py project focused on server management, moderation, protection, tickets, logs, welcome messages, suggestions, and configurable server tools.
+
+→ [View Hhf](https://github.com/irisblack374-pixel/Hhf)
+
+### 🌐 Site-
+**Discord bot project**
+
+A beginner-friendly Python/discord.py project with commands, setup documentation, and a simple structure for learning and development.
+
+→ [View Site-](https://github.com/irisblack374-pixel/Site-)
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -39,30 +65,18 @@ I enjoy taking an idea from concept → code → testing → something people ca
 
 ---
 
-## / projects
+## 📌 What I'm Building
 
-### 01 — Hhf
-**Discord moderation & server management**
-
-A Python Discord bot built around moderation, protection, automation, tickets, logging, and server utilities.
-
-→ [View repository](https://github.com/irisblack374-pixel/Hhf)
-
-### 02 — Site-
-**Web project**
-
-A web-focused project for experimenting with modern interfaces and development workflows.
-
-→ [View repository](https://github.com/irisblack374-pixel/Site-)
-
-### 03 — Experiments
-**AI • Web • Games**
-
-A collection of ideas, prototypes, and experiments used to explore new technologies and build new concepts.
+- 🤖 Discord automation
+- 🛡️ Server management & protection
+- 🌐 Web projects
+- 🧠 AI-powered ideas
+- 🎮 Game experiments
+- ⚙️ Tools that solve practical problems
 
 ---
 
-## / github stats
+## 📊 GitHub
 
 <div align="center">
 
@@ -72,19 +86,11 @@ A collection of ideas, prototypes, and experiments used to explore new technolog
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=irisblack374-pixel&theme=dark&hide_border=true&background=0b0d12&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280" width="70%"/>
-
-</div>
-
 ---
 
-## / philosophy
+## 💡 Philosophy
 
-> **Build quietly. Ship clean. Keep improving.**
-
----
+> Build. Test. Improve. Repeat.
 
 <div align="center">
 
