@@ -4,13 +4,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+BUILDER;DIGITAL+CREATOR;IDEAS+%E2%86%92+PROJECTS;DISCORD+%7C+WEB+%7C+AI+%7C+GAMES" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=DEVELOPER;AI+%7C+DISCORD+%7C+WEB+%7C+GAMES;BUILDING+PROJECTS;IDEAS+%E2%86%92+CODE+%E2%86%92+CREATE" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI_BUILDER-111827?style=for-the-badge&logo=openai&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/DIGITAL_CREATOR-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/PROJECT_MAKER-111827?style=for-the-badge&logo=rocket&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/DEVELOPER-111827?style=for-the-badge&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=7289da"/>
 
 </div>
 
@@ -20,23 +20,21 @@
 
 ## ✦ IRISBLACK374
 
-> **أفكار كثيرة. مشاريع أكثر. والذكاء الاصطناعي يساعدني أحولها لشيء حقيقي.**
+> **مطور أحب بناء المشاريع وتجربة أفكار جديدة باستخدام البرمجة والذكاء الاصطناعي.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:111827,50:312e81,100:7c3aed&text=IDEA%20%E2%86%92%20AI%20%E2%86%92%20PROJECT&fontColor=ffffff&fontSize=26&fontAlignY=55" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:111827,50:312e81,100:7c3aed&text=IDEA%20%E2%86%92%20CODE%20%E2%86%92%20CREATE&fontColor=ffffff&fontSize=26&fontAlignY=55" width="88%"/>
 
 </div>
 
 # ◈ عني
 
-أنا **IRISBLACK374**.
+أنا **IRISBLACK374**، مطور مهتم ببناء المشاريع وتجربة أفكار جديدة في **الذكاء الاصطناعي، Discord، الويب والألعاب**.
 
-أحب تجربة أفكار جديدة في **الذكاء الاصطناعي، Discord، المواقع، الألعاب والتصميم**، وأستخدم أدوات الذكاء الاصطناعي لمساعدتي في تحويل الفكرة إلى مشروع قابل للتجربة.
-
-**مو شرط أكون مبرمج محترف — المهم أن الفكرة تتحول إلى شيء حقيقي.**
+أحب تحويل الأفكار إلى مشاريع وتجربتها وتطويرها خطوة بخطوة.
 
 ---
 
-# ◈ المجالات التي أستكشفها
+# ◈ مجالاتي
 
 <div align="center">
 
@@ -55,7 +53,7 @@
 ### ◉ DISCORD
 
 بوتات  
-وأفكار للسيرفرات
+وأدوات للسيرفرات
 
 </td>
 <td align="center" width="25%">
@@ -70,7 +68,7 @@
 
 ### ◉ GAMES
 
-أفكار ألعاب  
+ألعاب  
 وتجارب جديدة
 
 </td>
@@ -81,7 +79,7 @@
 
 ---
 
-# ◈ أدوات أستخدمها
+# ◈ التقنيات
 
 <div align="center">
 
@@ -89,7 +87,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI_TOOLS-0f172a?style=for-the-flat-square&logo=openai&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/AI-0f172a?style=for-the-flat-square&logo=openai&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/DISCORD-0f172a?style=for-the-flat-square&logo=discord&logoColor=7289da"/>
 <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-flat-square&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CANVA-0f172a?style=for-the-flat-square&logo=canva&logoColor=00c4cc"/>
@@ -122,15 +120,15 @@
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:4338ca&text=02%20%E2%80%94%20AI%20%2B%20DESIGN&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:4338ca&text=02%20%E2%80%94%20DESIGN&fontColor=ffffff&fontSize=23" width="70%"/>
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:5b21b6&text=03%20%E2%80%94%20BUILD&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:5b21b6&text=03%20%E2%80%94%20CODE&fontColor=ffffff&fontSize=23" width="70%"/>
 
 ↓
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:7c3aed&text=04%20%E2%80%94%20TEST%20%26%20IMPROVE&fontColor=ffffff&fontSize=23" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:111827,100:7c3aed&text=04%20%E2%80%94%20TEST%20%26%20BUILD&fontColor=ffffff&fontSize=23" width="70%"/>
 
 </div>
 
@@ -154,7 +152,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7c3aed,45:312e81,75:0f172a,100:050505&text=KEEP%20CREATING&fontColor=ffffff&fontSize=36&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7c3aed,45:312e81,75:0f172a,100:050505&text=KEEP%20BUILDING&fontColor=ffffff&fontSize=36&animation=twinkling" width="100%"/>
 
 **© 2026 IRISBLACK374**
 
