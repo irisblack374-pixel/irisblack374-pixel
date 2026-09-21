@@ -19,15 +19,15 @@
 <tr>
 <td width="58%" valign="top">
 
-## 🕶️ ABOUT
+## ▣ ABOUT
 
 I'm a developer focused on building practical software, automation and digital tools.
 
-- 💻 **Software** — practical projects and utilities
-- 🤖 **AI** — APIs, vision and intelligent workflows
-- 💬 **Discord** — bots, moderation, permissions and automation
-- 🌐 **Web** — interfaces, dashboards and full-stack experiments
-- 🐍 **Python** — automation, backend services and developer tools
+- ⌘ **Software** — practical projects and utilities
+- ◈ **AI** — APIs, vision and intelligent workflows
+- ◉ **Discord** — bots, moderation, permissions and automation
+- ◎ **Web** — interfaces, dashboards and full-stack experiments
+- ◆ **Python** — automation, backend services and developer tools
 
 > **From idea → build → test → improve.**
 
@@ -38,7 +38,7 @@ IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 </td>
 <td width="42%" valign="top">
 
-## 🧩 TECH STACK
+## ◇ TECH STACK
 
 <div align="center">
 
@@ -46,7 +46,7 @@ IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 
 </div>
 
-### 🧠 SKILLS & EXPERTISE
+### ◆ SKILLS & EXPERTISE
 
 `Python` `JavaScript` `TypeScript` `React`  
 `Node.js` `discord.py` `Git` `Linux`  
@@ -59,13 +59,13 @@ IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## ▶ FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Hhf
+### ◇ Hhf
 
 **Discord Management & Protection**
 
@@ -78,7 +78,7 @@ Python / discord.py project for management, moderation, protection, tickets, log
 </td>
 <td width="50%" valign="top">
 
-### 💬 Discord-Bot
+### ◉ Discord-Bot
 
 **Discord Bot Project**
 
@@ -91,7 +91,7 @@ Bot project focused on commands, configuration, automation and utilities.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI-Tools
+### ◈ AI-Tools
 
 **AI & Automation**
 
@@ -102,7 +102,7 @@ Experiments and utilities around AI APIs, automation and intelligent workflows.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web-Project
+### ◎ Web-Project
 
 **Full-Stack Web**
 
@@ -120,7 +120,7 @@ Interfaces, dashboards and web application experiments.
 <tr>
 <td width="60%" valign="top">
 
-## 📊 GITHUB STATS
+## ▥ GITHUB STATS
 
 <div align="center">
 
@@ -135,15 +135,15 @@ Interfaces, dashboards and web application experiments.
 </td>
 <td width="40%" valign="top">
 
-## 🎯 CURRENT FOCUS
+## ⊙ CURRENT FOCUS
 
-- ✓ Build useful projects
-- ✓ Improve development skills
-- ✓ Create practical tools
-- ✓ Explore AI & automation
-- ✓ Build better systems
+- • Build useful projects
+- • Improve development skills
+- • Create practical tools
+- • Explore AI & automation
+- • Build better systems
 
-### 🧭 ENGINEERING AREAS
+### ⌖ ENGINEERING AREAS
 
 ```text
 SOFTWARE
@@ -173,7 +173,7 @@ WEB
 
 ---
 
-## ♾️ DEVELOPMENT PHILOSOPHY
+## ∞ DEVELOPMENT PHILOSOPHY
 
 <table>
 <tr>
