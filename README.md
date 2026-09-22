@@ -145,11 +145,28 @@ Interfaces, dashboards and web application experiments.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=ffffff&text_color=d9d9dc&ring_color=ffffff" width="100%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=irisblack374-pixel&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=ffffff&text_color=d9d9dc&ring_color=ffffff&rank_icon=github&custom_title=IRISBLACK.DEV%20—%20GITHUB%20STATS" width="100%" alt="GitHub Statistics">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=d9d9dc&dates=77787c" width="100%" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irisblack374-pixel&theme=dark&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=d9d9dc&dates=77787c&stroke=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="GitHub Contribution Streak">
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisblack374-pixel&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=ffffff&text_color=d9d9dc&icon_color=ffffff&custom_title=TOP%20LANGUAGES" width="100%" alt="Top Languages">
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=irisblack374-pixel&bg_color=050505&color=d9d9dc&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub Contribution Activity">
+
+</td>
+</tr>
+</table>
 
 </div>
 
