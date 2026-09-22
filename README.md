@@ -8,7 +8,7 @@
 
 ### <code>&lt;/&gt;</code> CODE&nbsp;&nbsp;•&nbsp;&nbsp;BUILD&nbsp;&nbsp;•&nbsp;&nbsp;IMPROVE&nbsp;&nbsp;•&nbsp;&nbsp;REPEAT
 
-<p><sub>SOFTWARE ENGINEER&nbsp;&nbsp;•&nbsp;&nbsp;AI / AUTOMATION&nbsp;&nbsp;•&nbsp;&nbsp;DISCORD SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;WEB</sub></p>
+<p><sub>SOFTWARE ENGINEERING&nbsp;&nbsp;•&nbsp;&nbsp;AI / AUTOMATION&nbsp;&nbsp;•&nbsp;&nbsp;DISCORD SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;WEB</sub></p>
 
 <img src="https://img.shields.io/badge/DEVELOPER-050505?style=for-the-badge&logo=github&logoColor=ffffff" alt="Developer">
 <img src="https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
@@ -99,37 +99,15 @@ Python / discord.py project for management, moderation, protection, tickets, log
 </td>
 <td width="50%" valign="top">
 
-### ◉ Discord-Bot
+### ◈ Site-
 
-**Discord Bot Project**
+**Web Project**
 
-Bot project focused on commands, configuration, automation and utilities.
+A web project focused on building and experimenting with modern web interfaces.
 
-**Stack:** Python · discord.py · dotenv
+**Stack:** Web · Frontend
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ AI-Tools
-
-**AI & Automation**
-
-Experiments and utilities around AI APIs, automation and intelligent workflows.
-
-**Stack:** Python · AI APIs
-
-</td>
-<td width="50%" valign="top">
-
-### ◎ Web-Project
-
-**Full-Stack Web**
-
-Interfaces, dashboards and web application experiments.
-
-**Stack:** TypeScript · React · Node.js
+[**→ Open Repository**](https://github.com/irisblack374-pixel/Site-)
 
 </td>
 </tr>
@@ -213,10 +191,6 @@ WEB
 
 ## ∞ DEVELOPMENT PHILOSOPHY
 
-<table>
-<tr>
-<td width="100%" valign="middle">
-
 <div align="center">
 
 ```text
@@ -227,13 +201,9 @@ PLAN → BUILD → TEST → DEBUG → OPTIMIZE → SHIP → REPEAT
 
 </div>
 
-</td>
-</tr>
-</table>
+---
 
 <div align="center">
-
-<br>
 
 <code>╔════════════════════════════════════════════╗</code><br>
 <code>║  ◢  CODE  •  BUILD  •  IMPROVE  •  REPEAT  ║</code><br>
