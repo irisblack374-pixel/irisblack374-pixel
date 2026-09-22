@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/header.svg" width="100%" alt="IRISBLACK.DEV">
 
+<br>
+
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-brand.gif" width="100%" alt="IRISBLACK.DEV animated banner">
+
 ### <code>&lt;/&gt;</code> CODE&nbsp;&nbsp;•&nbsp;&nbsp;BUILD&nbsp;&nbsp;•&nbsp;&nbsp;IMPROVE&nbsp;&nbsp;•&nbsp;&nbsp;REPEAT
 
 <p><sub>SOFTWARE ENGINEER&nbsp;&nbsp;•&nbsp;&nbsp;AI / AUTOMATION&nbsp;&nbsp;•&nbsp;&nbsp;DISCORD SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;WEB</sub></p>
@@ -12,6 +16,19 @@
 <img src="https://img.shields.io/badge/AI%20%2F%20AUTOMATION-050505?style=for-the-badge&logo=robotframework&logoColor=ffffff" alt="AI">
 
 <br><br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-moon-cat.gif" width="100%" alt="Moon Cat">
+</td>
+<td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-terminal.gif" width="100%" alt="Terminal">
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=D9D9DC&background=00000000&center=true&vCenter=true&width=560&lines=building+practical+software+and+automation;idea+%E2%86%92+build+%E2%86%92+test+%E2%86%92+improve+%E2%86%92+ship" alt="Typing SVG">
 
