@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-brand.gif" width="100%" alt="IRISBLACK.DEV animated banner">
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-neon-grid.svg" width="100%" alt="IRISBLACK.DEV animated banner">
 
 ### <code>&lt;/&gt;</code> CODE&nbsp;&nbsp;•&nbsp;&nbsp;BUILD&nbsp;&nbsp;•&nbsp;&nbsp;IMPROVE&nbsp;&nbsp;•&nbsp;&nbsp;REPEAT
 
@@ -20,10 +20,10 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-moon-cat.gif" width="100%" alt="Moon Cat">
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-code.svg" width="100%" alt="Moon Cat">
 </td>
 <td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-terminal.gif" width="100%" alt="Terminal">
+<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/gifs/irisblack-terminal-new.svg" width="100%" alt="Terminal">
 </td>
 </tr>
 </table>
