@@ -2,14 +2,18 @@
 
 <img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/header.svg" width="100%" alt="IRISBLACK.DEV">
 
-### <code>&lt;/&gt;</code> CODE • BUILD • IMPROVE • REPEAT
+### <code>&lt;/&gt;</code> CODE&nbsp;&nbsp;•&nbsp;&nbsp;BUILD&nbsp;&nbsp;•&nbsp;&nbsp;IMPROVE&nbsp;&nbsp;•&nbsp;&nbsp;REPEAT
 
-<p><sub>SOFTWARE • AI • AUTOMATION • DISCORD • WEB • PYTHON</sub></p>
+<p><sub>SOFTWARE ENGINEER&nbsp;&nbsp;•&nbsp;&nbsp;AI / AUTOMATION&nbsp;&nbsp;•&nbsp;&nbsp;DISCORD SYSTEMS&nbsp;&nbsp;•&nbsp;&nbsp;WEB</sub></p>
 
 <img src="https://img.shields.io/badge/DEVELOPER-050505?style=for-the-badge&logo=github&logoColor=ffffff" alt="Developer">
 <img src="https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
 <img src="https://img.shields.io/badge/DISCORD-050505?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord">
 <img src="https://img.shields.io/badge/AI%20%2F%20AUTOMATION-050505?style=for-the-badge&logo=robotframework&logoColor=ffffff" alt="AI">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=D9D9DC&background=00000000&center=true&vCenter=true&width=560&lines=building+practical+software+and+automation;idea+%E2%86%92+build+%E2%86%92+test+%E2%86%92+improve+%E2%86%92+ship" alt="Typing SVG">
 
 </div>
 
@@ -21,15 +25,15 @@
 
 ## ▣ ABOUT
 
-I'm a developer focused on building practical software, automation and digital tools.
+Developer focused on building practical software, automation and digital tools.
 
-- ⌘ **Software** — practical projects and utilities
-- ◈ **AI** — APIs, vision and intelligent workflows
-- ◉ **Discord** — bots, moderation, permissions and automation
-- ◎ **Web** — interfaces, dashboards and full-stack experiments
-- ◆ **Python** — automation, backend services and developer tools
+- **Software** — practical projects and utilities
+- **AI** — APIs, vision and intelligent workflows
+- **Discord** — bots, moderation, permissions and automation
+- **Web** — interfaces, dashboards and full-stack experiments
+- **Python** — automation, backend services and developer tools
 
-> **From idea → build → test → improve.**
+> From idea to build to test to improve.
 
 ```text
 IDEA → DESIGN → BUILD → TEST → FIX → IMPROVE → SHIP
@@ -137,11 +141,11 @@ Interfaces, dashboards and web application experiments.
 
 ## ⊙ CURRENT FOCUS
 
-- • Build useful projects
-- • Improve development skills
-- • Create practical tools
-- • Explore AI & automation
-- • Build better systems
+- Build useful projects
+- Improve development skills
+- Create practical tools
+- Explore AI & automation
+- Build better systems
 
 ### ⌖ ENGINEERING AREAS
 
@@ -177,36 +181,15 @@ WEB
 
 <table>
 <tr>
-<td width="60%" valign="middle">
-
-```text
-PLAN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-DEBUG
-  ↓
-OPTIMIZE
-  ↓
-SHIP
-  ↓
-REPEAT
-```
-
-> **Simple idea. Clean code. Useful result.**
-
-</td>
-<td width="40%" valign="middle">
+<td width="100%" valign="middle">
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/irisblack374-pixel/irisblack374-pixel/main/assets/icons/projects.svg" width="72" alt="Projects">
+```text
+PLAN → BUILD → TEST → DEBUG → OPTIMIZE → SHIP → REPEAT
+```
 
-<br>
-
-<sub><b>BUILD • TEST • EVOLVE</b></sub>
+> Simple idea. Clean code. Useful result.
 
 </div>
 
@@ -225,5 +208,7 @@ REPEAT
 <br><br>
 
 **IRISBLACK.DEV · 2026**
+
+<img src="https://komarev.com/ghpvc/?username=irisblack374-pixel&label=PROFILE%20VIEWS&color=050505&style=for-the-badge" alt="Profile Views">
 
 </div>
